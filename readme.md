@@ -1,0 +1,3 @@
+4 Week Day 4 Balanced Parenthesis Code Challenge
+
+In this coding challenge, I have created a function named 'parenthesisFunc' that takes a sample string as an input parameter. The goal of this function is to determine whether the parentheses in the input string are balanced or not. The solution involves iterating through the characters of the string and keeping track of the count of left and right parentheses. After the iteration, a comparison is made to check if the counts of left and right parentheses are equal, indicating balanced parentheses. The result of this comparison is then logged to the console.
